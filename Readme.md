@@ -2,7 +2,7 @@
 pip install Flask web3
 ```
 
-### add for server
+### add for server app.py
 ```sh
 from flask import Flask, render_template
 
